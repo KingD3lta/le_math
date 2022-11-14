@@ -1,0 +1,15 @@
+{
+  "name": "le_math",
+  "version": "0.0.1",
+  "description": "A simple math game",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.1.2"
+  },
+  "scripts": {
+    "menu": "node ./src/menus/main_menu",
+    "game": "node ./src/game"
+  },
+  "type": "module"
+}
