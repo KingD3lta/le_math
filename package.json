@@ -8,7 +8,6 @@
     "chalk": "^5.1.2"
   },
   "scripts": {
-    "menu": "node ./src/menus/main_menu",
     "game": "node ./src/game"
   },
   "type": "module"
